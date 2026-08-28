@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "packs": {
     "ko": {
       "dictUrl": "https://raw.githubusercontent.com/goodend7/Words_MetaMemory-gloss-packs/main/ko/en_dict.txt",
@@ -9,7 +9,7 @@
     "ja": {
       "dictUrl": "https://raw.githubusercontent.com/goodend7/Words_MetaMemory-gloss-packs/main/ja/en_dict.txt",
       "idiomsUrl": "https://raw.githubusercontent.com/goodend7/Words_MetaMemory-gloss-packs/main/ja/en_idioms.txt",
-      "sizeBytes": 72401
+      "sizeBytes": 152132
     }
   }
 }
