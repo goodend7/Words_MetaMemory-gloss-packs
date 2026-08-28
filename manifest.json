@@ -5,6 +5,11 @@
       "dictUrl": "https://raw.githubusercontent.com/goodend7/Words_MetaMemory-gloss-packs/main/ko/en_dict.txt",
       "idiomsUrl": "https://raw.githubusercontent.com/goodend7/Words_MetaMemory-gloss-packs/main/ko/en_idioms.txt",
       "sizeBytes": 3514384
+    },
+    "ja": {
+      "dictUrl": "https://raw.githubusercontent.com/goodend7/Words_MetaMemory-gloss-packs/main/ja/en_dict.txt",
+      "idiomsUrl": "https://raw.githubusercontent.com/goodend7/Words_MetaMemory-gloss-packs/main/ja/en_idioms.txt",
+      "sizeBytes": 72401
     }
   }
 }
