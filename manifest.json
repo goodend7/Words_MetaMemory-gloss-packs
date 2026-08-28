@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "packs": {
+    "ko": {
+      "dictUrl": "https://raw.githubusercontent.com/goodend7/Words_MetaMemory-gloss-packs/main/ko/en_dict.txt",
+      "idiomsUrl": "https://raw.githubusercontent.com/goodend7/Words_MetaMemory-gloss-packs/main/ko/en_idioms.txt",
+      "sizeBytes": 3514384
+    },
+    "ja": {
+      "dictUrl": "https://raw.githubusercontent.com/goodend7/Words_MetaMemory-gloss-packs/main/ja/en_dict.txt",
+      "idiomsUrl": "https://raw.githubusercontent.com/goodend7/Words_MetaMemory-gloss-packs/main/ja/en_idioms.txt",
+      "sizeBytes": 85995
+    },
+    "zh-CN": {
+      "dictUrl": "https://raw.githubusercontent.com/goodend7/Words_MetaMemory-gloss-packs/main/zh-CN/en_dict.txt",
+      "idiomsUrl": "https://raw.githubusercontent.com/goodend7/Words_MetaMemory-gloss-packs/main/zh-CN/en_idioms.txt",
+      "sizeBytes": 71022
+    }
+  }
+}
